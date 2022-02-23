@@ -14,3 +14,7 @@ On clicking ona crypto displays almost all stats related to that crypto plus pri
 Line chart is made using Char JS
 
 On news page displays top 10 to 12 articles related to crypto. User can also select any 1 of the top 100 cryptos and the news feed will be updated according to that specific crypto currency.
+
+
+Live Demo here (Forgot to change the icon):
+https://aadizee-cryptoverse.vercel.app/
