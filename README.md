@@ -3,6 +3,8 @@ A crypto analysis app created in React JS.
 Gets crypto data from Rapid API.
 Also gets crypto news from Rapid API.
 
+API calls are made using the modern REACT REDUX TOOLKIT.
+
 On home page displays top 10 cryptos. Some crypto stats. Latest crypto news.
 
 On crypto page displays top 100 cryptos.
